@@ -42,3 +42,4 @@ jobs:
       with:
         projectKey: "andredini93_identity6DotNet"
         token: ${{ secrets.SONAR_TOKEN }}
+        projectBaseDir: ./src
