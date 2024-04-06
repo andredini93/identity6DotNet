@@ -1,4 +1,4 @@
-# API Identity Server 6 Exemplo
+# API Identity Server 6
 
 Uma breve descrição do que sua API faz, focando nos conceitos do Identity Server 6 e como ela facilita a autenticação e autorização em aplicações .NET 6.
 
